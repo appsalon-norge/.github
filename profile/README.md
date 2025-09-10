@@ -1,6 +1,6 @@
 ## Appsalon
 
-![Shopify Plus Partner](.github/assets/ShopifyPartners_Primary.svg)
+![Shopify Partner](.github/assets/ShopifyPartners_Primary.svg)
 
 Appsalon is a Norwegian Shopify and Shopify Plus partner. 
 
